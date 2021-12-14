@@ -1,0 +1,12 @@
+Circulo cromático: serve para harmonizar as cores
+Cores primários dentros do circulo cromático: amarelo, vermelho, azul
+cores secundárias: laranja, violeta, verde
+cores terciárias: amarelo esverdeado, amarelo alaranjado, vermelho alaranjado, vermelho arroxeado, azul arroxeado, azul esverdeado
+cores da esquerda - cores frias
+cores da direita - cores quentes
+
+Cores complementares: ex - violeta e amarelo(a cor que contrasta contra)
+Cores análogas: cores que estão do lado da cor
+Cores análogas relacionadas: criam um degradê mas sem contraste
+Cores intercaladas: pega uma cor e pula a outra no circulo cromático
+Monocromia: pega a cor e modifica duas carácterísticas(saturação e e iluminosidade)

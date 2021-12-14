@@ -1,0 +1,38 @@
+Altura = Height
+Largura = Width
+Borda = border
+Padding = pra distanciar a borda do conteúdo
+Margem = Margin
+Outline = Contorno/traçado
+
+Tipos de caixa:
+Box-level:
+Box level sempre inicia uma linha nova
+Box level sempre ocupa a tela inteira
+<div>
+<h1>-<h6>
+<p>
+<main>
+<nav>
+<article>
+<aside>
+<footer>
+<form>
+<video>
+
+
+Inline-level:
+Não pula pra proxima linha
+Não ocupa o tamanho inteiro
+<span>
+<a>
+<code>
+<small>
+<small>
+<strong>
+<em>
+<sup>-<sub>
+<label>
+<button>
+<input>
+<select>
